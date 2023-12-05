@@ -38,5 +38,4 @@ int main()
     cout << res;
     f.close();
     return 0;
-
 }
