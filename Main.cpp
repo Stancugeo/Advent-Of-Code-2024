@@ -5,6 +5,8 @@
 using namespace std;
 int main() {
 	cout << "lol";
+	cout << "Advent of Code 2023" << endl;
+	
 	return 0;
 
 
